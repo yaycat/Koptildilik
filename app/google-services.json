@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "699774964267",
+    "firebase_url": "https://koptil-pr-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "koptil-pr",
+    "storage_bucket": "koptil-pr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699774964267:android:a820d7be32bfbd0192d06e",
+        "android_client_info": {
+          "package_name": "com.example.moneykeepfinalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd6l1-KdZntO7uV7bmQGCp_L3DQwaLs_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
